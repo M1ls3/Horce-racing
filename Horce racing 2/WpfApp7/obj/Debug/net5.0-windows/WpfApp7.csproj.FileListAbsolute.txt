@@ -1,0 +1,96 @@
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.cache
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.lref
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.exe
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.deps.json
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.json
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.dll
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\ref\WpfApp7.dll
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.pdb
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\bin\Debug\net5.0-windows\WriteableBitmapEx.Wpf.dll
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.g.resources
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CopyComplete
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.dll
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\ref\WpfApp7.dll
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.pdb
+C:\Users\Vlad\source\repos\WpfApp7\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\bin\Debug\net5.0-windows\WriteableBitmapEx.Wpf.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.g.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CopyComplete
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\refint\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Інше\HorceRun Bondar\WpfApp7\obj\Debug\net5.0-windows\ref\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WriteableBitmapEx.Wpf.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.g.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CopyComplete
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\refint\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\ref\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\bin\Debug\net5.0-windows\WriteableBitmapEx.Wpf.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.g.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.csproj.CopyComplete
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\refint\WpfApp7.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\WpfApp7.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рiк 2 семестр 2 курсу\ООП\Лаба 4\Horce racing 2\WpfApp7\obj\Debug\net5.0-windows\ref\WpfApp7.dll

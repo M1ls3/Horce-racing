@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="background.jpg" />
+    <None Remove="button backgruond green.jpg" />
+    <None Remove="button backgruond orange.jpg" />
+    <None Remove="Track.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WriteableBitmapEx" Version="1.6.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="background.jpg" />
+    <Resource Include="button backgruond green.jpg" />
+    <Resource Include="button backgruond orange.jpg" />
+    <Resource Include="Track.png" />
+  </ItemGroup>
+
+</Project>

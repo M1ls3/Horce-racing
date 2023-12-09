@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "WriteableBitmapEx/1.6.8": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll": {
+            "related": ".deps.json;.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll": {
+            "related": ".deps.json;.pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WriteableBitmapEx/1.6.8": {
+      "sha512": "DmMeRt3Zr+xu21U9uY9baniMlX86nSKRBoUvFXZilsk553Him37OX04nE2ctJtPHONbVD/iB1dsIfQx+r1LH0Q==",
+      "type": "package",
+      "path": "writeablebitmapex/1.6.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/NetCore45/WriteableBitmapEx.WinRT.dll",
+        "lib/NetCore45/WriteableBitmapEx.WinRT.pdb",
+        "lib/NetCore45/WriteableBitmapEx.WinRT.xml",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhone.XML",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhone.dll",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhone.pdb",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhoneXnaDependant.XML",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhoneXnaDependant.dll",
+        "lib/WindowsPhone8/WriteableBitmapExWinPhoneXnaDependant.pdb",
+        "lib/net40/WriteableBitmapEx.Wpf.dll",
+        "lib/net40/WriteableBitmapEx.Wpf.pdb",
+        "lib/net40/WriteableBitmapEx.Wpf.xml",
+        "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.deps.json",
+        "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll",
+        "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.pdb",
+        "lib/sl4-wp71/WriteableBitmapExWinPhone.XML",
+        "lib/sl4-wp71/WriteableBitmapExWinPhone.dll",
+        "lib/sl4-wp71/WriteableBitmapExWinPhone.pdb",
+        "lib/sl4-wp71/WriteableBitmapExWinPhoneXnaDependant.XML",
+        "lib/sl4-wp71/WriteableBitmapExWinPhoneXnaDependant.dll",
+        "lib/sl4-wp71/WriteableBitmapExWinPhoneXnaDependant.pdb",
+        "lib/sl4/WriteableBitmapEx.XML",
+        "lib/sl4/WriteableBitmapEx.dll",
+        "lib/sl4/WriteableBitmapEx.pdb",
+        "lib/uap/WriteableBitmapEx.Uwp.XML",
+        "lib/uap/WriteableBitmapEx.Uwp.dll",
+        "lib/uap/WriteableBitmapEx.Uwp.pdb",
+        "lib/uap/WriteableBitmapEx.Uwp.pri",
+        "lib/wpa81/WriteableBitmapEx.WinRT.dll",
+        "lib/wpa81/WriteableBitmapEx.WinRT.pdb",
+        "lib/wpa81/WriteableBitmapEx.WinRT.xml",
+        "writeablebitmapex.1.6.8.nupkg.sha512",
+        "writeablebitmapex.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "WriteableBitmapEx >= 1.6.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dizox\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рiк 2 семестр 2 курсу\\ООП\\Лаба 4\\Horce racing 2\\WpfApp7\\WpfApp7.csproj",
+      "projectName": "WpfApp7",
+      "projectPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рiк 2 семестр 2 курсу\\ООП\\Лаба 4\\Horce racing 2\\WpfApp7\\WpfApp7.csproj",
+      "packagesPath": "C:\\Users\\Dizox\\.nuget\\packages\\",
+      "outputPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2023 рiк 2 семестр 2 курсу\\ООП\\Лаба 4\\Horce racing 2\\WpfApp7\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dizox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "WriteableBitmapEx": {
+            "target": "Package",
+            "version": "[1.6.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
